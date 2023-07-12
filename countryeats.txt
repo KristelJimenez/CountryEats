@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>
+		Country Eats [ By Ace And Kristel ]
+	</title>
+</head>
+<body background="13.jpg" LEFTMARGIN="60" link="#000" alink=#017bf5 vlink="#000">
+	<h3>
+		<font face="Tahoma" size="5" color="gray">FOOD TRAVEL</font>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<font face="consolas" size="3">
+			<a href="file:///C:/Users/user/OneDrive/Documents/html2/countryeats_2.html" target="_self">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="https://www.willflyforfood.net" target="_blank">PLACES</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="file:///C:/Users/user/OneDrive/Documents/html2/portfolio.html" target="_blank">PORTFOLIO</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="https://www.foodfuntravel.com" target="_blank">BLOG</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="file:///C:/Users/user/OneDrive/Documents/html2/contact.html" target="_blank">CONTACT</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		</font>
+	</h3>
+	<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+	<h1 align="center">
+		<font face="Tahoma" color="maroon">Travel anmd Experience Every City's Delicacy</font>
+	</h1>
+<p align="Center">
+<video controls autoplay muted width="1080" height="720">
+<source src="movie.mp4" type="video/mp4">
+</video>
+</p>
+	<br /><br /><br /><br />
+<p align="center">
+<img src="01.jpg" width="150" height="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="3.jpg" width="150" height="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="4.jpg" width="150" height="200">
+</p>
+<p align="center">
+<img src="5.jpg" width="150" height="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="6.jpg" width="150" height="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="7.jpg" width="150" height="200">
+</p>
+		<p align="center">
+	<font face="Tahoma"><b> Contact Information<hr  width="50%" size="2" align="center" color="black"></b></p>
+	</font>
+<font face="Lucida Console">
+<table border="1"align="center">
+<tr>
+<td>
+	<p style="text-align:center"><img src="kristel.jpg" width="200" height="250">
+	<p style="text-align:left"><b>Name:</b>Kristel P. Jimenez</p>
+	<p style="text-align:left"><b>Section:</b>BSME-3E</p>
+	<p style="text-align:left"><b>Email Address:</b><i>jimenezz.kristel@gmail.com </i></p>
+	<p style="text-align:left"><b>Contact Number:</b>0949 127 3503</p>
+</td>
+<td>
+	<p style="text-align:center"><img src="ace.jpg" width="200" height="250">
+	<p style="text-align:left"><b>Name:</b> Ace Denver C. Panong</p>
+	<p style="text-align:left"><b>Section:</b>BSME-3E</p>
+	<p style="text-align:left"><b>Email Address:</b><i> panongacedenver@gmail.com</i></p>
+	<p style="text-align:left"><b>Contact Number:</b>0916 475 8023</p>
+</td>
+</tr>
+</p>
+<p align="center">
+<table border="1" align="center">
+<tr>
+<td>
+	<p align="center"><input type="text" placeholder="Feedback"></p>
+	<p align="center"><input type="text" placeholder="Recommendations"></p>
+	<p align="center">how helpful was our website?<br><input type="range"></p>
+</tr>
+</p>
+
+
+</body>
+</html>
